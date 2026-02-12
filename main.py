@@ -7,3 +7,4 @@
 # nieuwe aanpassing maken
 
 # ik ga dit nu even aanpasen voor branches en mergen
+# oefening om een nieuwe branch/tak aan te maken
